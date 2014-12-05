@@ -1,0 +1,6 @@
+title: Breathing Code
+tagline: The conference where code is alive!
+markdown: redcarpet
+redcarpet:
+  extensions: [with_toc_data, strikethrough, superscript, footnotes]
+highlighter: pygments
