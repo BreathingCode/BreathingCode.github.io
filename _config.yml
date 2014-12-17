@@ -1,5 +1,5 @@
 title: Breathing Code
-tagline: The conference where code is alive!
+tagline: The conference where code comes alive!
 markdown: redcarpet
 redcarpet:
   extensions: [with_toc_data, strikethrough, superscript, footnotes]
