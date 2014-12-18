@@ -27,4 +27,5 @@ All sessions will happen on <span class="live-stress">May 5, 2015</span>.
 
 ## Stay tuned ...
 
-Follow [@breathing_code](https://twitter.com/breathing_code) to get the latest announcements.
+Please [leave your email](http://goo.gl/forms/o6oCmuJp18)
+or follow [@breathing_code](https://twitter.com/breathing_code) to get the latest conference news.
