@@ -3,13 +3,23 @@ layout: default
 ---
 ## Call for Contributions
 
-We're looking for submissions of two types:
+We're mainly looking for two kind of submissions:
 
 - <span class="live-stress">Short Presentations</span> (30 minutes or less)
 - <span class="live-stress">Interactive Sessions</span> (30 to 90 minutes)
-- <span class="live-stress">Performance</span> for evening event
+
+However, on the evening before the conference, there will be an evening event
+and we're also interested in submissions for <span class="live-stress">Performances</span>
+at this evening event.
 
 ## Themes, Topics and Domains
+
+The concepts of live coding and coding live cover a wide range of topics and
+domains. We're looking for contributions from all of them in order to provide
+our audience with as diverse impressions and inspirations as possible.
+
+The following may serve as a non-exhaustive list of inspiration of possible
+topics, that we deem relevant to the conference's audience.
 
 - Programming techniques for live coding
 - Technical challenges of live coding
@@ -17,7 +27,10 @@ We're looking for submissions of two types:
 - Programming on stage to teach or solve problems
 - Live coding in other domains than music and art
 - Live debugging and testing
-- Any other topic you deem relevant for the [conference vision](index.html)
+
+Please consider contributing if you can tell the conference's audience something
+about those or related themes and topics, that you deem relevant for the
+[conference's vision](index.html)
 
 ### All submissions must include
 
