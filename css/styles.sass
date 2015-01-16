@@ -1,6 +1,7 @@
 ---
 ---
 $green: #b5e853
+$highlight: rgba(255,145,0,0.9)
 $font: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
 
 *
@@ -114,6 +115,29 @@ header
     margin: 0
 
 
+ul#posts
+  li.post:before
+    content: ""
+    margin: 0
+
+.post-meta
+  font-size: 13px
+  margin-bottom: 20px
+
+  li
+    display: inline
+
+  li:before
+    content: ""
+    margin: 0
+
+  i
+    color: $highlight
+
+.post-title
+  margin-bottom: 10px
+
+
 #main_content
   width: 100%
   overflow: auto
@@ -220,7 +244,8 @@ header
 
 .live-stress
   font-style: italic
-  color: rgba(255,145,0,0.9)
+  color: $highlight
+
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px)
   html, body
