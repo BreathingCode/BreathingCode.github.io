@@ -3,8 +3,8 @@ layout: default
 ---
 ### Organizers
 
-[Benjamin](mailto:benjamin@ambestengestern.de)  
-[Johannes](mailto:business@johanneslink.net)  
+* [Benjamin](https://twitter.com/benjamin)
+* [Johannes](https://twitter.com/johanneslink)
 
 
 ### Contracting Party for Participants, Speakers and Suppliers
