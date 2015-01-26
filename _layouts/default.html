@@ -7,13 +7,11 @@
     <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   </head>
-
   <body>
-
     <div id="outer-container">
       <header>
         <div class="container">
-          <ul class="navigation">
+          <ul id="menu" class="navigation">
             <li><a href="/cfc.html">Call for Contributions</a></li>
             <li><a href="/news.html">News</a></li>
             <li><a href="/codeofconduct.html">Code of Conduct</a></li>
@@ -35,8 +33,14 @@
           </ul>
         </div>
       </footer>
-
     </div>
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="/js/jquery.slicknav.min.js"></script>
+    <script>
+      $(function(){
+        $('#menu').slicknav();
+      });
+      </script>
 
   </body>
 </html>
