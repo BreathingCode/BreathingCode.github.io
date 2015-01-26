@@ -1,6 +1,7 @@
 ---
 ---
 $green: #b5e853
+$linkcolor: #63c0f5
 $highlight: rgba(255,145,0,0.9)
 $font: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
 $bg: #151515 url("../images/bkg.png") 0 0
@@ -40,7 +41,7 @@ h1, h2, h3, h4, h5, h6
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1)
 
 a
-  color: #63c0f5
+  color: $linkcolor
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5)
 
 ul
@@ -247,6 +248,9 @@ ul#posts
   font-style: italic
   color: $highlight
 
+.twitter-timeline
+  margin: 20px auto
+  display: block
 
 @media only screen and (min-device-width : 481px)
   .slicknav_menu
