@@ -42,6 +42,8 @@ to do with your time (1/2 page minimum, 2 pages max)
 - Short bio of all presenting humans and AIs
 - Contact information of main presenter
 
+Please [submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
+
 ### Conditions for Presenters
 
 All presenters of accepted sessions will get free admission to the conference.
@@ -50,6 +52,7 @@ the [organizers](aboutus.html).
 
 ### Timeline
 
-- Submission System opens on <span class="live-stress">Jan 31, 2015</span>
+- [Submission System](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform)
+opens on <span class="live-stress">Jan 31, 2015</span>
 - All Submissions due by <span class="live-stress">Feb 28, 2015</span>
 - Notification of acceptance by <span class="live-stress">March 15, 2015</span>
