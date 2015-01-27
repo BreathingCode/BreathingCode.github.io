@@ -12,6 +12,8 @@ layout: default
 Johannes Link  
 Rohrbacher Straße 79  
 69115 Heidelberg  
+Germany
+
 Tel: +49 (0) 6221 163376  
 
 Email: [business@johanneslink.net](mailto:business@johanneslink.net)
