@@ -53,6 +53,12 @@ the [organizers](aboutus.html).
 ### Timeline
 
 - [Submission System](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform)
-opens on <span class="live-stress">Jan 27, 2015</span>
+opened on <span class="live-stress">Jan 27, 2015</span>
 - All Submissions due by <span class="live-stress">Feb 28, 2015</span>
 - Notification of acceptance by <span class="live-stress">March 15, 2015</span>
+
+### When and Where
+
+The conference will take place in <span class="live-stress">Frankfurt, Germany</span>.
+It will start with an evening event on <span class="live-stress">May 4, 2015</span>.
+All sessions will happen on <span class="live-stress">May 5, 2015</span>.
