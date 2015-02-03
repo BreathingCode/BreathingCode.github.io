@@ -1,21 +1,48 @@
 ---
 layout: default
 ---
+
+## About the Conference
+
+Breathing Code is a one-day, one-track, non-profit conference about showcasing
+projects and approaches that involve adapting systems and code, live and in front
+of an audience.
+
+
 ## Call for Contributions
 
-We're mainly looking for two kind of submissions:
+### Conference
 
-- <span class="live-stress">Short Presentations</span> (30 minutes or less)
-- <span class="live-stress">Interactive Sessions</span> (30 to 90 minutes)
+We're inviting everybody to submit proposals for sessions in whatever format
+they can think of, be it demos, presentations, talks etc. Keep in mind that
+we're a one-day conference with only one track, though.
 
-However, on the evening before the conference, there will be an evening event
-and we're also interested in submissions for <span class="live-stress">Performances</span>
-at this evening event.
+It boils down to one rule:  
+*It must involve changing code live on stage.*
 
-## Themes, Topics and Domains
+See below for a non-exhaustive list of topics that are interesting to us or
+[submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
+
+
+### Evening Event
+
+On the day before the conference (May 4th 2015), there will be an evening event
+with live code performances.  
+We're also interested in submissions for *Performances* at this evening event.
+
+
+### Timeline
+
+- [Submissions](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform)
+opened on *Jan 27, 2015*
+- All Submissions due by *Feb 28, 2015*
+- Notification of acceptance by *March 15, 2015*
+
+
+## Topics
 
 The concepts of live coding and coding live cover a wide range of topics and
-domains. We're looking for contributions from all of them in order to provide
+dyomains. We're looking for contributions from all of them in order to provide
 our audience with as diverse impressions and inspirations as possible.
 
 The following may serve as a non-exhaustive list of inspiration of possible
@@ -32,33 +59,7 @@ Please consider contributing if you can tell the conference's audience something
 about those or related themes and topics, that you deem relevant for the
 [conference's vision](index.html)
 
-### All submissions must include
-
-- Title and short abstract for display in the conference program
-- Session type and preferred length
-- Detailed description of what you're planning
-to do with your time (1/2 page minimum, 2 pages max)
-- Equipment and other requirements to be provided by organizers
-- Short bio of all presenting humans and AIs
-- Contact information of main presenter
-
 Please [submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
 
-### Conditions for Presenters
 
-All presenters of accepted sessions will get free admission to the conference.
-If you - as presenter - cannot afford travel and accomodation, please contact
-the [organizers](aboutus.html).
 
-### Timeline
-
-- [Submission System](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform)
-opened on <span class="live-stress">Jan 27, 2015</span>
-- All Submissions due by <span class="live-stress">Feb 28, 2015</span>
-- Notification of acceptance by <span class="live-stress">March 15, 2015</span>
-
-### When and Where
-
-The conference will take place in <span class="live-stress">Frankfurt, Germany</span>.
-It will start with an evening event on <span class="live-stress">May 4, 2015</span>.
-All sessions will happen on <span class="live-stress">May 5, 2015</span>.
