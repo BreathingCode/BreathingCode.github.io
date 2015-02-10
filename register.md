@@ -7,7 +7,7 @@ layout: default
 Official registration is not open yet. You can pre-register for the conference
 on May 4 and 5, in Frankfurt, Germany.
 
-Preregistration does NOT require you to attend, but it will give you at
+Pre-registration does NOT require you to attend, but it will give you at
 least 24 hours early access to the official registration system,
 which will open in early March.
 
