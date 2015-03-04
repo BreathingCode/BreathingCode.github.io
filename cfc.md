@@ -2,6 +2,9 @@
 layout: default
 ---
 
+    The submission system has closed down.
+    Your suggested contributions are currently being reviewed.
+
 ## About the Conference
 
 Breathing Code is a one-day, one-track, non-profit conference about showcasing
@@ -21,8 +24,10 @@ It boils down to one rule:
 *It must involve changing code live on stage.*
 
 See below for a non-exhaustive list of topics that are interesting to us or
-[submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
 
+<!---
+[submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
+-->
 
 ### Evening Event
 
@@ -33,9 +38,8 @@ We're also interested in submissions for *Performances* at this evening event.
 
 ### Timeline
 
-- [Submissions](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform)
-opened on *Jan 27, 2015*
-- All Submissions due by *Feb 28, 2015*
+- Submissions opened on *Jan 27, 2015*
+- Submission system closed on *March 3, 2015*
 - Notification of acceptance by *March 15, 2015*
 
 
@@ -59,7 +63,6 @@ Please consider contributing if you can tell the conference's audience something
 about those or related themes and topics, that you deem relevant for the
 [conference's vision](index.html)
 
+<!--
 Please [submit your session proposals here](https://docs.google.com/forms/d/1ebpJwUQ1knzkEVdZwaaVZS8GblB6ThQe9NPF0F6GV_E/viewform).
-
-
-
+-->
