@@ -34,7 +34,7 @@ In addition to the above mentioned, the following benefits are included:
   you) and place it prominently at the party location
 * Your logo will be part of a banner, that will be shown in the outro of all
   session videos. After the conference all session videos will be provided free
-  of charge on a platform like youtube.
+  of charge on a video streaming site.
 
 ### Party Drink Sponsor - *750 €*
 
@@ -50,7 +50,7 @@ In addition to the above mentioned, the following benefits are included:
   you) and place it prominently around the lunch area.
 * Your logo will be part of a banner, that will be shown in the outro of all
   session videos. After the conference all session videos will be provided free
-  of charge on a platform like youtube.
+  of charge on a video streaming site.
 
 
 ### Conference Breakfast Sponsor - *250 €*
