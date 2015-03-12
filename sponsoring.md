@@ -5,16 +5,9 @@ layout: default
 ## Sponsoring
 
 As Breathing Code is a non-profit conference, support by sponsors has a direct
-impact on the [conference ticket price](/register.html) and nothing else.
-
+impact on the [conference ticket price](/register.html).
 *For every 250€* in sponsoring that is secured until the end of March 2015, the
 price of *every ticket will be lowered by 7€*.
-
-
-### Contact
-
-If you're interested in sponsoring, please get in touch with [Johannes
-Link](/aboutus.html).
 
 
 ## Benefits
@@ -22,7 +15,7 @@ Link](/aboutus.html).
 We offer the following benefits to all sponsors:
 
 * You'll be mentioned explicitly during the opening of the party on May 4th and
-  the conference on May 5th. The conference on May 5th will be livestreamed and
+  the conference on May 5th. The conference on May 5th will be streamed live and
   captured on video.
 * You'll be mentioned by our [Twitter account](https://twitter.com/breathing_code) before and after the conference.
 * Your logo and a link to your website will be placed on our website.
@@ -79,6 +72,5 @@ visible into the coffee break area in the afternoon of May 5th.
 
 ## Interested in Sponsoring Breathing Code?
 
-If you're interested in sponsoring, please get in touch with [Johannes
-Link](/aboutus.html).
-
+If you're interested in sponsoring, please get in touch with
+[Johannes Link](/aboutus.html).

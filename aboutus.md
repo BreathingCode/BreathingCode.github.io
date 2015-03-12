@@ -7,7 +7,7 @@ layout: default
 * [Johannes](https://twitter.com/johanneslink)
 
 
-### Contracting Party for Participants, Speakers and Suppliers
+### Contracting Party for Participants, Speakers, Sponsors and Suppliers
 
 Johannes Link  
 Rohrbacher Straße 79  
