@@ -23,9 +23,9 @@ We offer the following benefits to all sponsors:
 
 ## Packages
 
-### Party Dinner Sponsor - *1000 €*
+### Party Sponsor - *1500 €*
 
-You'll be the exclusive sponsor for the dinner at the conference's pre-party on
+You'll be the exclusive sponsor for the conference's pre-party on
 May 4th 2015.
 
 In addition to the above mentioned, the following benefits are included:
@@ -35,10 +35,6 @@ In addition to the above mentioned, the following benefits are included:
 * Your logo will be part of a banner, that will be shown in the outro of all
   session videos. After the conference all session videos will be provided free
   of charge on a video streaming site.
-
-### Party Drink Sponsor - *750 €*
-
-### Party Music Sponsor - *500 €*
 
 ### Conference Lunch Sponsor - *1000 €*
 
