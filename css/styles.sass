@@ -1,5 +1,8 @@
 ---
 ---
+@import reset
+@import grid
+
 $green: #b5e853
 $linkcolor: #63c0f5
 $highlight: rgba(255,145,0,0.9)
@@ -65,10 +68,10 @@ footer
   width: 100%
   border-top: 1px dashed $green
   padding: 10px 0
+  margin-top: 20px
   text-align: center
 
   position: relative
-  margin-top: -25px
   height: 40px
   clear: both
 
@@ -78,7 +81,7 @@ header
   width: 100%
   border-bottom: 1px dashed $green
   padding: 0
-  margin: 0 0 40px 0
+  margin: 0 0 10px 0
 
   h1
     font-size: 30px
@@ -142,77 +145,76 @@ ul#posts
 .post-title
   margin-bottom: 10px
 
+h1
+  font-size: 30px
+
+h2
+  margin: 45px 0 25px
+  font-size: 24px
+
+h3
+  font-size: 18px
+
+h4
+  font-size: 14px
+
+h5
+  font-size: 12px
+  text-transform: uppercase
+  margin: 0 0 5px 0
+
+h6
+  font-size: 12px
+  text-transform: uppercase
+  color: #999
+  margin: 0 0 5px 0
+
+p
+  margin: 15px 0 15px 0
+
+dt
+  font-style: italic
+  font-weight: bold
+
+blockquote
+  color: #aaa
+  padding-left: 10px
+  border-left: 1px dotted #666
+
+em
+  font-style: italic
+  color: $highlight
+
+pre
+  background: rgba(0, 0, 0, 0.9)
+  border: 1px solid rgba(255, 255, 255, 0.15)
+  padding: 10px
+  font-size: 14px
+  color: $green
+  border-radius: 2px
+  -moz-border-radius: 2px
+  -webkit-border-radius: 2px
+  text-wrap: normal
+  overflow: auto
+  overflow-y: hidden
+
+table
+  width: 100%
+  margin: 0 0 20px 0
+
+th
+  text-align: left
+  border-bottom: 1px dashed $green
+  padding: 5px 10px
+
+td
+  padding: 5px 10px
 
 #main_content
   width: 100%
   overflow: auto
   padding-bottom: 40px
   -webkit-font-smoothing: antialiased
-
-  h1
-    font-size: 30px
-
-  h2
-    margin: 45px 0 25px
-    font-size: 24px
-
-  h3
-    font-size: 18px
-
-  h4
-    font-size: 14px
-
-  h5
-    font-size: 12px
-    text-transform: uppercase
-    margin: 0 0 5px 0
-
-  h6
-    font-size: 12px
-    text-transform: uppercase
-    color: #999
-    margin: 0 0 5px 0
-
-  p
-    margin: 15px 0 15px 0
-
-  dt
-    font-style: italic
-    font-weight: bold
-
-  blockquote
-    color: #aaa
-    padding-left: 10px
-    border-left: 1px dotted #666
-
-  em
-    font-style: italic
-    color: $highlight
-
-  pre
-    background: rgba(0, 0, 0, 0.9)
-    border: 1px solid rgba(255, 255, 255, 0.15)
-    padding: 10px
-    font-size: 14px
-    color: $green
-    border-radius: 2px
-    -moz-border-radius: 2px
-    -webkit-border-radius: 2px
-    text-wrap: normal
-    overflow: auto
-    overflow-y: hidden
-
-  table
-    width: 100%
-    margin: 0 0 20px 0
-
-  th
-    text-align: left
-    border-bottom: 1px dashed $green
-    padding: 5px 10px
-
-  td
-    padding: 5px 10px
 
   hr
     height: 0
@@ -251,6 +253,34 @@ ul#posts
 .twitter-timeline
   margin: 20px auto
   display: block
+
+
+/////////////////
+// Grid, mainly used on program page
+/////////////////
+
+#grid-content
+  width: 960px
+  margin: 0 auto
+  overflow: hidden
+  min-height: 100%
+
+  .session-abstract
+    @include column(12)
+    border-bottom: 1px dashed $green
+
+  .bio
+    @include column(9)
+    margin-top: 20px
+  .avatar
+    img
+      @include column(2)
+      @include push(1)
+      margin-top: 30px
+      border-radius: 50%
+      background: $bg
+      text-align: center
+
 
 @media only screen and (min-device-width : 481px)
   .slicknav_menu
@@ -291,19 +321,18 @@ ul#posts
       color: $green
       margin-right: 10px
 
-  #main_content
-    h1
-      font-size: 20px
-    h2
-      font-size: 18px
-    h3
-      font-size: 16px
-    h4
-      font-size: 14px
-    h5
-      font-size: 12px
-    h6
-      font-size: 12px
+  h1
+    font-size: 20px
+  h2
+    font-size: 18px
+  h3
+    font-size: 16px
+  h4
+    font-size: 14px
+  h5
+    font-size: 12px
+  h6
+    font-size: 12px
 
   #menu
     display: none
@@ -322,3 +351,12 @@ ul#posts
       position: absolute
       top: 10px
       right: 5px
+
+  #grid-content
+    @include column(12)
+    .bio
+      @include column(12)
+    .avatar
+      img
+        @include column(6)
+        @include push(3)

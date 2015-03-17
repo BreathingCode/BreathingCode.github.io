@@ -1,0 +1,11 @@
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="Breathing Code is a conference at the intersection of art, performance and computer programming. We aim to bring together a diverse set of presenters who all have one thing in common: They will change program code live on stage!" >
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.title }}">
