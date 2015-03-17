@@ -11,21 +11,33 @@ layout: default
 -->
 
 <div style="width:100%; text-align:left;" >
-  <iframe  src="//eventbrite.de/tickets-external?eid=16137524771&ref=etckt" frameborder="0" height="350" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+  <iframe
+    src="//eventbrite.de/tickets-external?eid=16137524771&ref=etckt" 
+    frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 <!--  <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.de/r/etckt">Event registration</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.de/e/breathing-code-conference-tickets-16137524771?ref=etckt">Breathing Code Conference</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.de?ref=etckt">Eventbrite</a></div>
 -->
 </div>
 
-### Pricing
+### Ticket Price
 
-The current ticket price is EUR 250 plus VAT. If you can [help us to find more
-sponsors](/sponsoring.html) the ticket price will be reduced accordingly and
-you will be refunded the difference between the price you paid and the price
-charged on the last day of ticket sales (May 3, 2015).
+The current ticket price is *250€* + VAT and includes admission to ...
 
-### Hotel Rooms
+- ... the *pre-conference party on evening of May 4th*, where [Sam
+  Aaron](/2015/01/28/speaker-sam.html), among others, will perform a live coding
+  session, resulting in a great audio-visual experience.
+- ... the *one-day conference on May 5th*, with a range of international speakers,
+  showcasing several sessions that cover the wide subject area of live coding.
 
-We have reserved a continget of rooms at the following hotels:
+#### Reduced Ticket Price
+
+If you can [help us to find more sponsors](/sponsoring.html) the ticket price
+will be reduced accordingly and you will be refunded the difference between the
+price you paid and the price charged on the last day of ticket sales (May 3,
+2015).
+
+### Hotels
+
+We have reserved a contingencies at the following hotels:
 
 - Hotel Nr 1, at 500 EUR per Night.
 - Hotel Nr 2, at 1000 EUR per Night.
