@@ -1,34 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name=viewport content="width=device-width, initial-scale=1">
+    {% include head.html %}
     <link rel="stylesheet" type="text/css" href="{{ "/css/styles.css" | prepend: site.baseurl }}" media="screen">
-
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
-    <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="Breathing Code is a conference at the intersection of art, performance and computer programming. We aim to bring together a diverse set of presenters who all have one thing in common: They will change program code live on stage!" >
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:site_name" content="{{ site.title }}">
 
   </head>
   <body>
     <div id="outer-container">
-      <header>
-        <div class="container">
-          <ul id="menu" class="navigation">
-            <li><a href="/register.html">Register</a></li>
-            <li><a href="/news.html">News</a></li>
-            <li><a href="/venues.html">Venues</a></li>
-            <li><a href="/sponsoring.html">Sponsoring</a></li>
-            <li><a href="/details.html">Details</a></li>
-          </ul>
-          <h1><a href="/">{{ site.title }}</a></h1>
-        </div>
-      </header>
+      {% include header.html %}
 
       <div class="container">
         <section id="main_content">
@@ -36,22 +15,8 @@
         </section>
       </div>
 
-      <footer>
-        <div class="container">
-          <ul class="navigation">
-            <li><a href="/codeofconduct.html">Code of Conduct</a></li>
-            <li><a href="/aboutus.html">About Us</a></li>
-          </ul>
-        </div>
-      </footer>
+      {% include footer.html %}
     </div>
-    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="/js/jquery.slicknav.min.js"></script>
-    <script>
-      $(function(){
-        $('#menu').slicknav();
-      });
-      </script>
-
+      {% include scripts.html %}
   </body>
 </html>
