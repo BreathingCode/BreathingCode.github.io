@@ -21,10 +21,10 @@ layout: default
 
 The current ticket price is *250€* + VAT and includes admission to ...
 
-- ... the *pre-conference party on evening of May 4th*, where [Sam
-  Aaron](/2015/01/28/speaker-sam.html), among others, will perform a live coding
-  session, resulting in a great audio-visual experience.
-- ... the *one-day conference on May 5th*, with a range of international speakers,
+- the *pre-conference party on evening of May 4th*, where [Sam
+  Aaron](/2015/01/28/speaker-sam.html) and other conference participants will perform
+  live on stage, resulting in a great audio-visual experience.
+- the *one-day conference on May 5th*, with a range of international speakers,
   showcasing several sessions that cover the wide subject area of live coding.
 
 #### Reducing the Ticket Price
@@ -33,14 +33,3 @@ If you can [help us to find more sponsors](/sponsoring.html) the ticket price
 will be reduced accordingly and you will be refunded the difference between the
 price you paid and the price charged on the last day of ticket sales (May 3,
 2015).
-
-### Hotels
-
-We have reserved a contingencies at the following hotels:
-
-- Hotel Nr 1, at 500 EUR per Night.
-- Hotel Nr 2, at 1000 EUR per Night.
-- Hotel Nr 3, at 1500 EUR per Night.
-
-When booking your hotel room, just mention that you are part of Breathing Code,
-to get the rate above.
