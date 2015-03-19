@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+If you have any questions, <a href="mailto:{{ site.email }}?subject=Breathing Code">send us an email</a>.
+
 ### Organizers
 
 * [Benjamin](https://twitter.com/benjamin)
