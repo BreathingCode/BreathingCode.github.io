@@ -31,7 +31,7 @@ That's why we've reserved room contingencies in two hotels. Just mention
   This hotel is outside the inner city of Frankfurt, close to the airport. Using
   public transport to get to and from this hotel, is therefore a bit tricky and
   takes some time. To make it easier for you, we'll arrange transportation on
-  the night of May 4 and the morning of May 5.
+  the night of May 4th and the morning of May 5th.
 
 Please <a href="mailto:{{ site.email }}?subject=Breathing Code: Transport to venues">let us know</a>
 in advance if you need transportation from Tulip Inn to the venues.
