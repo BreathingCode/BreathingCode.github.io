@@ -34,14 +34,3 @@ If you can [help us to find more sponsors](/sponsoring.html) the ticket price
 will be reduced accordingly and you will be refunded the difference between the
 price you paid and the price charged on the last day of ticket sales (May 3,
 2015).
-
-### Hotels
-
-We have reserved a contingencies at the following hotels:
-
-- Hotel Nr 1, at 500 EUR per Night.
-- Hotel Nr 2, at 1000 EUR per Night.
-- Hotel Nr 3, at 1500 EUR per Night.
-
-When booking your hotel room, just mention that you are part of Breathing Code,
-to get the rate above.
