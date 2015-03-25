@@ -19,7 +19,7 @@ on May 5th, from 9am till 6pm.
 It's trade show time in Frankfurt - like most of the time - so booking rooms can
 get tricky and eventually more expensive than usual.
 
-That's why we've reserved room contingencies in two hotels. Just mention
+That's why we've reserved a block of rooms in two hotels. Just mention
 "Breathing Code" when booking your room in one of those hotels.
 
 - [Mainhaus Stadthotel](http://mainhaus-frankfurt.de/en/): From here you can get
