@@ -288,19 +288,12 @@ td
     clear: both
 
   ul.program-overview
-    @include column(10)
-
-    li:before
-      content: ""
-
-    a.session
-      @include column(7)
-
     a.performer
-      @include column(3)
       color: $highlight
       text-decoration: none
 
+    a.performer:before
+      content: " with "
 
 
 @media only screen and (min-device-width : 481px)
