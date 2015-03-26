@@ -6,8 +6,9 @@ layout: default
 
 ### Party Location
 <a id="preevent"></a>
-The pre-party will take place at [Romanfabrik](http://www.romanfabrik.de/service/lageplan/)
+The pre-event party will take place at [Romanfabrik](http://www.romanfabrik.de/service/lageplan/)
 on May 4th, starting at 7pm.
+Besides some drinks and food there'll be [live performances](/program.html#party-program) on stage. 
 
 ### Conference Location
 <a id="conference"></a>
