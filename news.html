@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<ul id="posts">
+<div id="posts">
   {% for post in site.posts %}
-  <li class="post">
+  <div class="post">
 
     <h2 class="post-title">
       <a class="post-link" href="{{ post.url }}">
@@ -19,6 +19,6 @@ layout: default
     <div class="post-content">
       {{ post.content }}
     </div>
-  </li>
+  </div>
   {% endfor %}
-</ul>
+</div>
