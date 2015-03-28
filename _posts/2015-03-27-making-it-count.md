@@ -5,7 +5,7 @@ author: Benjamin Reitzammer
 author_handle: benjamin
 ---
 
-[Johannes](https://twitter.com/johanneslink), my co-organizer, and I, we're fond
+[Johannes](https://twitter.com/johanneslink), my co-organizer, and I, we are fond
 of transparency.
 
 One testament of this, was today's publishing of our [breakdown of Breathing
@@ -20,7 +20,7 @@ Another aspect we want and need to be transparent about, is the feasibility of
 the conference.
 
 Until now, a week after the registration has opened and a mere five weeks before
-the conference, there were only two tickets sold. 
+the event, only ~~two~~ *three* tickets have been sold.
 
 And as we've noted in the already mentioned post ["About the
 Price"](/2015/03/27/about-the-price.html), the calculated ticket price of 250€
@@ -42,7 +42,7 @@ hundred € in cancellation fees.
 
 ### Making the Next Days Count
 
-All this means, that *we decided to cancel Breathing Code* on Wednesday
+All this means, that *we've decided to cancel Breathing Code* on Wednesday
 01-April-2015 (sorry, no april fool's joke), *if the number of tickets sold* until
 then, *is still significantly below the minumum of 35*.
 
@@ -52,11 +52,11 @@ then, *is still significantly below the minumum of 35*.
 If you'd like to see Breathing Code happen, then help us!
 
 Help us, spread the word. Help us find sponsors. Help us sell tickets. Help us
-by buying tickets.
+by buying tickets. *Of Course, all tickets will be fully reimbursed in case
+Breathing Code is cancelled!*
 
 Thank you!
 
 Benjamin & Johannes  
  --  
 Breathing Code Organizers
-
