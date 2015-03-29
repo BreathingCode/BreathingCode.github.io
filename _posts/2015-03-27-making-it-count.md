@@ -20,7 +20,7 @@ Another aspect we want and need to be transparent about, is the feasibility of
 the conference.
 
 Until now, a week after the registration has opened and a mere five weeks before
-the event, only ~~two~~ *three* tickets have been sold.
+the event, only ~~two~~ *four* tickets have been sold.
 
 And as we've noted in the already mentioned post ["About the
 Price"](/2015/03/27/about-the-price.html), the calculated ticket price of 250€
