@@ -4,10 +4,6 @@ layout: default
 
 ## Registration
 
-<div class="announcement">
-  [The conference has been cancelled.](/2015/04/01/cancelling-the-conference.html)
-</div>
-
 <!--
 [Help make Breathing Code count!](/2015/03/27/making-it-count.html)
 
