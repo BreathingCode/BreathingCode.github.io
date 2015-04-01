@@ -6,7 +6,8 @@ author_handle: johannes
 ---
 
 We are very sad, but in the end it is the right thing to do: We've decided
-to cancel Breathing Code 2015. Seven tickets sold was not enough to make it work.
+to cancel Breathing Code 2015. Seven tickets sold is far from enough to make
+ends meet.
 
 Many thanks to all who supported us -- especially in the last week since Benjamin
 [wrote about our dilemma](/2015/03/27/making-it-count.html). Thanks to all the
