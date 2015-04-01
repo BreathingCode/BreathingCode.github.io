@@ -5,7 +5,7 @@ author: Johannes Link
 author_handle: johannes
 ---
 
-We are both sad, but in the end it was the right thing to do: We've decided
+We are very sad, but in the end it is the right thing to do: We've decided
 to cancel Breathing Code 2015. Seven tickets sold was not enough to make it work.
 
 Many thanks to all who supported us -- especially in the last week since Benjamin
