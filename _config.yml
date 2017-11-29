@@ -1,5 +1,4 @@
 title: Breathing Code
-kramdown: redcarpet
 redcarpet:
   extensions: [with_toc_data, strikethrough, superscript, footnotes]
 highlighter: pygments
