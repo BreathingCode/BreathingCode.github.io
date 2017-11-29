@@ -1,7 +1,7 @@
 title: Breathing Code
 redcarpet:
   extensions: [with_toc_data, strikethrough, superscript, footnotes]
-highlighter: pygments
+highlighter: rouge
 sass:
   style: compressed
 email: organizers@breathing-code.de
